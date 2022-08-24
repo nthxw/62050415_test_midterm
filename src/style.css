@@ -1,0 +1,85 @@
+.descss {
+  text-align: center;
+  padding-left: 50%;
+  text-overflow: ellipsis;
+}
+
+.ticss {
+  text-align: center;
+}
+
+.itti {
+  text-align: center;
+}
+
+.pricss {
+  text-align: center;
+}
+
+.itpri {
+  text-align: center;
+}
+
+.stcss {
+  text-align: center;
+}
+
+.itst {
+  text-align: center;
+}
+
+.itdes {
+  text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: auto;
+}
+
+.bracss {
+  text-align: center;
+}
+
+.itbra {
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.imgpicture {
+  align-items: center;
+  border-radius: 15px;
+  width: auto;
+  max-height: max-content;
+  overflow: hidden;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 500px;
+  margin-right: 2rem;
+  width: 1292px;
+  box-shadow: 5px 8px #c5d7f2;
+  text-shadow: 3px 2px #c5d7f2;
+  text-align: center;
+  font-size: 60px;
+  border-bottom: 2px solid black;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  margin-bottom: 25px;
+  border-style: solid;
+  border-color: black;
+  border-width: 4px;
+  font-size: "PRODUCT DETAILS", 30px;
+}
+
+.datecss {
+  text-align: center;
+}
+
+.ttcss {
+  text-align: center;
+}
